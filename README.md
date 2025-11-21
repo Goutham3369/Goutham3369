@@ -1,18 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Goutham
 
-<!--
-**Goutham3369/Goutham3369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-web-portfolio-link.com)
 
-Here are some ideas to get you started:
+### 🚀 My LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/goutham4989?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/goutham4989/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-https://leetcode.com/u/goutham4989/
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
